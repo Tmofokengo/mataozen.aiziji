@@ -21,15 +21,11 @@ body{
 }
 
 
-#img-div{
-
-}
-
 
 img#image{
     width: 50%;
     height: auto;
-    padding-top: 25px;
+    margin-top: 25px;
 }
 
 h1{
@@ -45,7 +41,7 @@ ul{
 
 li{
     margin-top:1em;
-    font-size:20px
+    font-size: 1.17em;
 }
 
 #tribute-link{
