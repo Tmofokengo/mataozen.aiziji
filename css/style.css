@@ -5,3 +5,14 @@ html{
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+.main{
+    width: 70%;
+    
+}
+.title{
+    margin: 0 auto;
+}
+
+h1{
+    font-size:3em;
+}
