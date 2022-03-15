@@ -1,5 +1,6 @@
 html{
     font-size: 62.5%;
+    background-color: thistle;
 }
 
 body{
@@ -33,6 +34,7 @@ img#image{
 
 h1{
     font-size:3em;
+
 }
 
 ul{
