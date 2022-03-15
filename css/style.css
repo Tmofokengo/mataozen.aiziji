@@ -31,15 +31,18 @@ h3 {
     text-transform: capitalize;
 }
 
+#img-div{
+    background-color:white;
+}
+
 img#image{
-    width: 50%;
+    width: 50vw;
     height: auto;
     margin-top: 25px;
 }
 
 h1{
     font-size:3em;
-
 }
 
 ul{
