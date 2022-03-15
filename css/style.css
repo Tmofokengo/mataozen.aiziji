@@ -6,7 +6,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     display: grid;
     grid-template-columns: 1fr;
-
 }
 
 #main{
@@ -17,13 +16,37 @@ body{
     justify-content: center;
     text-align: center;
 }
+#title{
+    margin:0;
+}
 
 
+#img-div{
+
+}
+
+
+img#image{
+    width: 50%;
+    height: auto;
+    padding-top: 25px;
+}
 
 h1{
     font-size:3em;
 }
 
 ul{
+    width: 50%;
+    margin: 0 auto;
     list-style-position: inside;
+    text-align: left;
+}
+
+li{
+    margin-top:1em;
+}
+
+#tribute-link{
+    margin-top: 25px;
 }
